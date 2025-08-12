@@ -1,0 +1,15 @@
+# VoiceVanishSuite configuration
+filterCommands: true
+commandsToIntercept:
+  - "/groups invite"
+  - "/groups list"
+  - "/groups info"
+protocolLib:
+  enabled: false
+  keywords:
+    - "[Voice]"
+    - "[Groups]"
+    - "вошел в группу"
+    - "вошла в группу"
+    - "покинул группу"
+    - "покинула группу"
