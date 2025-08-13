@@ -1,0 +1,7 @@
+name: VoiceVanishSuite
+main: me.clamsy.voicevanish.VoiceVanishSuite
+version: 1.0.0
+api-version: '1.20'
+author: ClamsyTeam
+description: Hides Essentials vanished players in PlasmaVoice lists and can suppress voice join/leave messages.
+softdepend: [Essentials, ProtocolLib]
