@@ -21,3 +21,4 @@ jobs:
         with:
           name: VoiceVanishSuite
           path: target/*.jar
+
